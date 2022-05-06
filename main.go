@@ -7,8 +7,8 @@ import (
 	"os"
 	"time"
 
-	"opensource/aresjob-initializer/cache"
-	"opensource/aresjob-initializer/manual"
+	"aresjob-initializer/cache"
+	"aresjob-initializer/manual"
 
 	"github.com/golang/glog"
 	"github.com/spf13/cobra"

@@ -1,4 +1,4 @@
-module opensource/aresjob-initializer
+module aresjob-initializer
 
 go 1.16
 

@@ -5,7 +5,7 @@ import (
 	"os"
 	"testing"
 
-	"opensource/aresjob-initializer/utils"
+	"aresjob-initializer/utils"
 
 	"github.com/stretchr/testify/assert"
 )

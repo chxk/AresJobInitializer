@@ -3,8 +3,8 @@ package cache
 import (
 	"fmt"
 
-	"opensource/aresjob-initializer/client"
-	"opensource/aresjob-initializer/utils"
+	"aresjob-initializer/client"
+	"aresjob-initializer/utils"
 
 	"github.com/golang/glog"
 )

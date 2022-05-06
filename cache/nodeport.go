@@ -5,7 +5,7 @@ import (
 	"net/url"
 	"strings"
 
-	"opensource/aresjob-initializer/utils"
+	"aresjob-initializer/utils"
 
 	"github.com/golang/glog"
 )

@@ -3,8 +3,8 @@ package manual
 import (
 	"fmt"
 
-	"opensource/aresjob-initializer/cache"
-	"opensource/aresjob-initializer/utils"
+	"aresjob-initializer/cache"
+	"aresjob-initializer/utils"
 
 	"github.com/golang/glog"
 	"github.com/spf13/cobra"
